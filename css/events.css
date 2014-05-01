@@ -1,4 +1,8 @@
-.eventAbout { width: 500px; background: rgba(14,40,67,1); color: white; padding: 20px; }
+body { font-family: helvetica;}
+.eventAbout { width: 500px; background: rgba(14,40,67,1); color: white; padding: 20px; font-size: 20px;  }
 .eventContainer { margin-left: 30px; width: 300px; padding: 20px; border-radius: 8px; }
-.yetiText { color: white; }
+.yetiText { color: white; font-size: 20px; }
 .yetiContainer { width: 500px; padding: 20px; background: rgba(14,40,67,1); }
+
+/* Custom overrides to Mail Chimp CSS Styles */
+#mc_embed_signup { width: 500px; }
