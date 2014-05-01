@@ -1,5 +1,4 @@
-p.eventAbout { color: #3c3c3c; width: 500px;}
-
-p.yetiText {
-	color: white;
-}
+.eventAbout { width: 500px; background: rgba(14,40,67,1); color: white; padding: 20px; }
+.eventContainer { margin-left: 30px; width: 300px; padding: 20px; border-radius: 8px; }
+.yetiText { color: white; }
+.yetiContainer { width: 500px; padding: 20px; background: rgba(14,40,67,1); }
