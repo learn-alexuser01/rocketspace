@@ -7,6 +7,9 @@
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 
 </style>-->
+
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css">
 <link href="../css/bootstrap-theme.min.css" rel="stylesheet" type="text/css">
 
@@ -21,11 +24,18 @@
 
 <body>
 
-<img src="../images/rocketuLogo.png" width="500px" height="auto" />
+<div class="container">
+<center>
+	<img src="../images/rocketuLogo.png" width="500px" height="auto" />
+</center>
 
-<div class="jumbotron"><h1>RocketU Events</h1></div>
+<br>
+<br>
 
-<div class="eventAbout">
+<div class="jumbotron">
+	<center><h1>RocketU Events</h1></center>
+
+<div class="eventAbout col-xs-12">
 <p>Thinking about learning to code but don't know where to get started
 Join us for a free Introduction to Web Development session
 @RocketU, 3/F, 180 Sansome Street, San Francisco
@@ -37,7 +47,8 @@ Join us for a free Introduction to Web Development session
  - A tour of the RocketSpace campus
  No prior coding experience necessary. Food and drinks provided. 
 CAN'T MAKE IT TO SAN FRANCISCO? JOIN THE LIVE STREAM HERE:                                                               
-P.S. Ready to apply to the 10-week developer bootcamp? Visit: http://rocketu.com </p>
+P.S. Ready to apply to the 10-week developer bootcamp? Visit:</p> <a href="http://www.rocketu.com" class="btn btn-danger">RocketU Bootcamp</a>
+
 	<h2>Introduction to Web Development Class</h2>
 	<h3>Monday, May 5th</h3>
 	<h3>6:30pm - 8:30pm</h3>
@@ -45,7 +56,7 @@ P.S. Ready to apply to the 10-week developer bootcamp? Visit: http://rocketu.com
 
 <div id="mc_embed_signup">
 <form action="http://rocketu.us8.list-manage1.com/subscribe/post?u=f07203e4b1c8fdc56b64894c8&amp;id=35321ef240" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
@@ -265,7 +276,8 @@ function mce_success_cb(resp){
 
 </script>
 <!--End mc_embed_signup-->
-
+</div>
+</div>
 
 </body>
 </html>
