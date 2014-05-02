@@ -1,6 +1,6 @@
 body { font-family: helvetica; font-size: 18px;}
 .eventAbout {  font-size: 18px;}
-ul.eventList { text-decoration: none; list-style: none; font-size: 16px;}
+ul.eventList { text-decoration: none; list-style: none; font-size: 14px;}
 .companyLogos { width: 150px; height: auto; padding: 0;}
 img.companyLogos { margin: 0; padding: 0;}
 .eventContainer {  }
