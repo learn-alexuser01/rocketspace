@@ -1,7 +1,10 @@
-body { font-family: helvetica; }
-.eventAbout { text-align: justify; }
+body { font-family: helvetica; font-size: 20px;}
+.eventAbout { text-align: justify; font-size: 20px;}
+ul.eventList { text-decoration: none; list-style: none; font-size: 20px;}
+.companyLogos { width: 150px; height: auto; padding: 0;}
+img.companyLogos { margin: 0; padding: 0;}
 .eventContainer {  }
-p.yetiText { font-size: 14px; text-align: justify;}
+p.yetiText { font-size: 14px; text-align: justify; padding: 0 20px;}
 .yetiContainer { text-align: center; }
 
 /* Custom overrides to Mail Chimp CSS Styles */
