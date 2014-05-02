@@ -1,8 +1,8 @@
 body { font-family: helvetica; }
-.eventAbout {  }
+.eventAbout { text-align: justify; }
 .eventContainer {  }
-.yetiText {  }
-.yetiContainer { }
+p.yetiText { font-size: 14px; text-align: justify;}
+.yetiContainer { text-align: center; }
 
 /* Custom overrides to Mail Chimp CSS Styles */
 #mc_embed_signup {  }
