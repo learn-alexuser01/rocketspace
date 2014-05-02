@@ -1,11 +1,12 @@
 body { font-family: helvetica; font-size: 18px; background: rgba(14,40,67,1); padding-top: 80px;}
+.jumbo {box-shadow: 1px 1px 3px #333;  box-shadow: inset 0 0 10px #000000;}
 .eventAbout {  font-size: 18px;}
 ul.eventList { text-decoration: none; list-style: none; font-size: 14px;}
 .companies { padding-top: 15px; }
 .companyLogos { width: 150px; height: auto; padding: 0;}
 img.companyLogos { margin: 0; padding: 0;}
 .eventContainer {  }
-p.yetiText { font-size: 12px; text-align: justify; padding: 0 20px;}
+p.yetiText { font-size: 18px; text-align: justify; padding: 0 20px;}
 .yetiContainer { text-align: center; }
 
 /* Custom overrides to Mail Chimp CSS Styles */
