@@ -11,3 +11,9 @@ p.yetiText { font-size: 18px; text-align: justify; padding: 0 20px;}
 
 /* Custom overrides to Mail Chimp CSS Styles */
 #mc_embed_signup { padding-top: 20px;}
+
+
+#may14 a {
+	text-decoration: none !important;
+	color: #3c3c3c;
+}
