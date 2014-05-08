@@ -17,3 +17,11 @@ p.yetiText { font-size: 18px; text-align: justify; padding: 0 20px;}
 	text-decoration: none !important;
 	color: #3c3c3c;
 }
+
+#may14 .jumbo {
+	margin: 0;
+}
+#may14 .eventInfo {
+	padding: 0;
+	margin: 0;
+}
