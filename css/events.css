@@ -1,3 +1,5 @@
+<link href='http://fonts.googleapis.com/css?family=Just+Another+Hand|Arvo|Josefin+Sans|Inconsolata|Indie+Flower|Nunito|Special+Elite|Archivo+Black|Love+Ya+Like+A+Sister' rel='stylesheet' type='text/css'>
+
 body { font-family: helvetica; font-size: 18px; background: rgba(14,40,67,1); padding-top: 80px;}
 .jumbo {box-shadow: 1px 1px 3px #333;  box-shadow: inset 0 0 10px #000000;}
 .eventAbout {  font-size: 18px;}
@@ -25,3 +27,4 @@ p.yetiText { font-size: 18px; text-align: justify; padding: 0 20px;}
 	padding: 0;
 	margin: 0;
 }
+
